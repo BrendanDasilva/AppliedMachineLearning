@@ -27,6 +27,22 @@ The video walkthrough answers 21 key questions about this dataset and its implem
 
 ---
 
+### 2. Neural Network Training and Optimization
+This assignment focuses on training and optimizing a neural network on the **Iris dataset**. Key experiments include testing different **optimizers, number of layers, neurons, epochs, and batch sizes**, with comparisons of their effects on model performance.
+
+#### 📊 Key Experiments:
+- **Optimizers:** Comparing RMSprop vs. Adam
+- **Number of Layers:** 2-layer vs. 4-layer networks
+- **Neurons per Layer:** 10 vs. 50 neurons
+- **Epochs:** 10 vs. 50 epochs
+- **Batch Size:** 5 vs. 32 batch sizes
+
+The video walkthrough explains each experiment, analyzes the results, and discusses how different hyperparameters impact model performance.
+
+📺 **Video Walkthrough:** [YouTube Link](https://youtu.be/OQx0azq7uD8)
+
+---
+
 ### 🔧 Technologies Used
 - Python
 - TensorFlow / Keras
