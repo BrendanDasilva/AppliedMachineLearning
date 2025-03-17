@@ -49,4 +49,23 @@ The video walkthrough explains each experiment, analyzes the results, and discus
 - NumPy
 - Matplotlib
 
+### 3. Convolutional Neural Networks and Image Convolution
+
+This assignment explores how 2D convolutional kernels work and how they are applied to image processing. The first part involves running predefined cells to visualize convolution effects on images and answering related questions. The second part focuses on training a Convolutional Neural Network (CNN) and analyzing its performance.
+
+### 🔍 Key Topics:
+- Understanding image convolution and applying 2D kernels for edge detection, sharpening, and blurring.
+- Training a CNN on an image dataset and analyzing model performance.
+- Answering theoretical and practical questions based on experiment results.
+
+📺 **Video Walkthrough:** [YouTube Link] incoming...
+
+### 🔧 Technologies Used
+- Python
+- TensorFlow / Keras
+- NumPy
+- Matplotlib
+
 More assignments will be added as the course progresses! 🚀
+
+
