@@ -41,13 +41,13 @@ The video walkthrough explains each experiment, analyzes the results, and discus
 
 📺 **Video Walkthrough:** [YouTube Link](https://youtu.be/OQx0azq7uD8)
 
----
-
 ### 🔧 Technologies Used
 - Python
 - TensorFlow / Keras
 - NumPy
 - Matplotlib
+
+---
 
 ### 3. Convolutional Neural Networks and Image Convolution
 
