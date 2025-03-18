@@ -58,7 +58,7 @@ This assignment explores how 2D convolutional kernels work and how they are appl
 - Training a CNN on an image dataset and analyzing model performance.
 - Answering theoretical and practical questions based on experiment results.
 
-📺 **Video Walkthrough:** [YouTube Link] incoming...
+📺 **Video Walkthrough:** [YouTube Link](https://youtu.be/dA041ikpPvg)
 
 ### 🔧 Technologies Used
 - Python
