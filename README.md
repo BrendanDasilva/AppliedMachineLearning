@@ -66,6 +66,24 @@ This assignment explores how 2D convolutional kernels work and how they are appl
 - NumPy
 - Matplotlib
 
-More assignments will be added as the course progresses! 🚀
+---
+
+### 4. CIFAR-10 - Overfitting and How to Reduce It
+
+This assignment focuses on training a CNN on the CIFAR-10 dataset and analyzing signs of overfitting. It introduces **Dropout layers** to reduce overfitting and compares model performance before and after applying this technique.
+
+#### 📉 Key Concepts:
+- Visualizing overfitting via training and validation accuracy/loss graphs.
+- Applying **Dropout** layers to improve model generalization.
+- Evaluating model accuracy on the test set and interpreting the results.
+
+📺 **Video Walkthrough:** [YouTube Link](https://youtu.be/nXI60Yd8bC8)
+
+### 🔧 Technologies Used
+- Python
+- TensorFlow / Keras
+- NumPy
+- Matplotlib
+
 
 
